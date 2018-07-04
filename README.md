@@ -22,3 +22,8 @@ Nothing is more exciting in life than seeing yourself shoot and not be hit.
 #### Game!
 ![alt text](https://github.com/Sea-Fighters/Sea-Fighters/blob/master/Screenshot/6.png "Screenshot Game")
 
+* Author: Alessandro Trapasso
+
+* Personal Email: ale.trapasso8@gmail.com
+
+* Account Linkedin: [Alessandro Trapasso](https://sea-fighters.github.io/Sea-Fighters/)
